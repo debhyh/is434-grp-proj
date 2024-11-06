@@ -2,7 +2,7 @@
   "couldn't": "could not", "couldn't've": "could not have", "didn't": "did not", "doesn't": "does not", "don't": "do not", "gotta":"got to",
   "hadn't": "had not", "hadn't've": "had not have", "hasn't": "has not", "haven't": "have not", "he'd": "he would", "he'd've": "he would have",
   "he'll": "he will", "he'll've": "he will have", "he's": "he is", "how'd": "how did", "how'd'y": "how do you", "how'll": "how will",
-  "how's": "how is", "i'd": "I would", "i'd've": "I would have", "i'll": "I will", "i'll've": "I will have", "i'm": "I am", "i've": "I have", "isn't": "is not",
+  "how's": "how is", "i'd": "I would", "i'd've": "I would have", "i'll": "I will", "i'll've": "I will have", "i'm": "I am","im": "I am", "i've": "I have", "isn't": "is not",
   "it'd": "it had", "it'd've": "it would have", "it'll": "it will", "it'll've": "it will have", "it's": "it is", "let's": "let us", "ma'am": "madam",
   "mayn't": "may not", "might've": "might have", "mightn't": "might not", "mightn't've": "might not have", "must've": "must have", "mustn't": "must not",
   "mustn't've": "must not have", "needn't": "need not", "needn't've": "need not have", "o'clock": "of the clock", "oughtn't": "ought not", "oughtn't've": "ought not have",
@@ -17,5 +17,5 @@
   "won't": "will not", "won't've": "will not have","woulda":"would have","would of":"would have", "would've": "would have", "wouldn't": "would not", "wouldn't've": "would not have", "y'all": "you all",
   "y'alls": "you alls", "y'all'd": "you all would", "y'all'd've": "you all would have", "y'all're": "you all are", "y'all've": "you all have",
   "you'd": "you had", "you'd've": "you would have", "you'll": "you will", "you'll've": "you will have", "you're": "you are", "you've": "you have",
-  "loot box": "lootbox", "match making": "matchmaking", "devs": "developers", "dev":"developer", "battle net": "battlenet"
+  "loot box": "lootbox", "match making": "matchmaking", "devs": "developer", "dev":"developer", "battle net": "battlenet"
 }
